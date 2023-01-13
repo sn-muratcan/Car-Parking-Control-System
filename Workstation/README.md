@@ -1,0 +1,2 @@
+    -> "README.md dosyasını okuyunuz.."
+    - Read the README.md file.

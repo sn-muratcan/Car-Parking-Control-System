@@ -1,0 +1,2 @@
+-> Bu bölüm öğretmenimiz Sayın Rahime Hacımustafaoğlu'nun istekleri için ayrılmıştır. Öğretmenimize gösterilecek projeler ve ödevler burada öncelikli olarak paylaşılır.
+- This section is reserved for the wishes of our teacher "Mrs. Rahime Hacımustafaoğlu". Projects and assignments to be shown to our teacher are shared here with priority.
