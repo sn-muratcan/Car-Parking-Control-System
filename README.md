@@ -9,7 +9,7 @@
    > Muhammed Akgül(211216008)
    > Veli Bakay()
     
-Supervisor: [Keyvan Arasteh](https://github.com/keyvanarasteh/)
+Supervisor: [Rahime Hacımustafaoğlu]
 
     Bu depo da mobil programlamaya dair deneme bölümleri ve geliştirilmeye açık projeler bulunacaktır.
     
