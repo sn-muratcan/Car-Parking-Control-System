@@ -11,7 +11,7 @@
     
 Supervisor: [Rahime Hacımustafaoğlu]
 
-    Bu depo da mobil programlamaya dair deneme bölümleri ve geliştirilmeye açık projeler bulunacaktır.
+    Bu depo da nesne yönelimli programlamaya dair deneme bölümleri ve geliştirilmeye açık projeler bulunacaktır.
     
  **MM-Team** was founded by **Muratcan Şen** , **Muhammed Akgül**, **Veli Bakay** and **Oğuz Pekmezci** students of Istinye University Computer Programming Department, under the leadership of Dear Program Officer Rahime Hacımustafaoğlu.
 
